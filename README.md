@@ -20,7 +20,7 @@ Inside this repo you'll find HTML, CSS, and JS files that come together to build
 ## What's Missing?
 
 1. Part 1: the multiply, divide, and modulus functions need to be built. Can you figure out how to build them and `console.log` their results?
-1. Part 2: in the `equal` function at the bottom of the `main.js` file you'll see the first two cases call the `putResultInElement` function with their corresponding operation functions passed into it. But the next three don't. Can you fix that so that your results show up on the page and NOT the console?
+1. Part 2: in the `equals` function at the bottom of the `main.js` file you'll see the first two cases call the `putResultInElement` function with their corresponding operation functions passed into it. But the next three don't. Can you fix that so that your results show up on the page and NOT the console?
 
 ### Push Yourself Further
 

@@ -1,5 +1,53 @@
 body {
-  margin: 20% auto;
+  /* margin: 20% auto;
   width: 50%;
-  height: 75%;
+  height: 75%; */
+  font-family: 'Secular One', sans-serif;
+  margin: 3em;
+  background: #7A8A76;
+}
+
+.calculator {
+  background: #333;
+  padding: 1em;
+  display: grid;
+}
+
+button {
+  background: #D6AF75;
+  border: none;
+  padding: 1em;
+  margin: 1em;
+  color: #333;
+  font-family: 'Secular One', sans-serif;
+}
+
+body label {
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+input {
+  margin: 1em;
+  border: none;
+  height: 2em;
+}
+
+#result {
+  background: #E3CB8B;
+  color: #333;
+  font-size: 20px;
+  text-align: center;
+}
+
+#equal {
+  background: #E3CB8B;
+  font-size: 1.2em;
+}
+
+#clear {
+  background: #DDD;
+  color: #777;
+  font-size: 1.2em;
 }
